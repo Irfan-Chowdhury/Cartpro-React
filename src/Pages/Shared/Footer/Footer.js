@@ -3,7 +3,7 @@ import { FaFacebookF, FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa';
 
 const Footer = () => {
     return (
-        <div>
+        <div id="footer-section" >
             <section className="mb-3">
                 <div className="container">
 
